@@ -1,4 +1,4 @@
-# Project 2: Ames Housing Price Prediction
+# Kaggle Competition: Ames Housing Price Prediction
 
 ### Contents:
 - [Problem Statement](#Problem-Statement)
